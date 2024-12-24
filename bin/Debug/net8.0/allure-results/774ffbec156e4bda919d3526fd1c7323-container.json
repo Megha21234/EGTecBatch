@@ -1,0 +1,12 @@
+{
+  "uuid": "617c5f32-df4b-48fe-ac7f-a708b8ce2a8a",
+  "name": "TestProjectDecBatchEGIndia.NunitTests.AllureReportGen.login",
+  "children": [
+    "812e5d50-8b6f-43ce-8494-7316078582fd"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734150498026,
+  "stop": 1734150498056
+}

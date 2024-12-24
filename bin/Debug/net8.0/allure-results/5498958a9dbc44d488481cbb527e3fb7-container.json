@@ -1,0 +1,12 @@
+{
+  "uuid": "61e1603b-0190-459f-aacb-f491397c731b",
+  "name": "TestProjectDecBatchEGIndia.SeleniumC_.parallel",
+  "children": [
+    "db087e9c-731a-4e07-bfd5-40ddef03508f"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734592111344,
+  "stop": 1734592133771
+}
